@@ -1,1 +1,2 @@
-print("Goodnight")
+print("Goodnight");
+print("gg");
